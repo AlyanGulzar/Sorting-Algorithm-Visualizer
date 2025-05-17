@@ -24,7 +24,6 @@ This tool is designed to help users understand how different sorting algorithms 
 ## Demo
 ![Visual_Sorting_Algorithm_Demo](Visual_Sorting_Algorithm_Demo.gif)
 
-https://github.com/AlyanGulzar/Sorting-Algorithm-Visualizer/assets/122874346/4b5ae844-c0df-40b1-9bc2-5603f1d1f0e5
 
 ## Prerequisites
 
