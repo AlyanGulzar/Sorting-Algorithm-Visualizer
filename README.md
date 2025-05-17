@@ -37,11 +37,10 @@ This tool is designed to help users understand how different sorting algorithms 
 ## Building and Running the Application
 
 ### Clone the Repository:
-
-   ```bash
-   git clone https://github.com/AlyanGulzar/Sorting-Algorithm-Visualizer.git
+```bash
+    git clone https://github.com/AlyanGulzar/Sorting-Algorithm-Visualizer.git
    cd Sorting-Algorithm-Visualizer
-
+   ```
 ### Configure the Build:
 - Use your preferred build system (e.g., CMake or Code::Blocks) to configure the project.
 - Make sure the wxWidgets environment is set up correctly on your machine.
